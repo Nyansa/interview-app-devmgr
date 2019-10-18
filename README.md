@@ -18,7 +18,7 @@ its package manager (npm) installed.  You can get them from [http://nodejs.org/]
 Clone the interview-app-devmgr repository using [git][git]:
 
 ```
-git clone https://github.com/avaliani/interview-app-devmgr.git
+git clone https://github.com/dkan-nyansa/interview-app-devmgr
 cd interview-app-devmgr
 ```
 
